@@ -1,1 +1,3 @@
-import db
+import numpy
+
+print(numpy.__version__)
